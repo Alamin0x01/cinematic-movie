@@ -42,7 +42,7 @@ const page = () => {
                     and real estate development on the other. As a leading player in the film exhibition industry, our
                     company is spearheading the establishment of a robust ecosystem that brings together key partners,
                     including filmmakers, studios, content providers, equipment and concession manufacturers, data and
-                    technology companies, all of whom rely on the strength of our business and the communities we serve.
+                    technology companies, all of whom rely on the strength of our business and the communities  we serve.
                     We engage with multiple channels to connect with our over 180 million patrons through research,
                     loyalty, online, digital, and offline modes to provide a platform to showcase film and non-film
                     content and identifying new trends in the film exhibition industry.
