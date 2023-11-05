@@ -107,7 +107,7 @@ const TicketCard: React.FC<{ ticket: Ticket }> = ({ ticket }) => {
 
                     >{ticket.type}</button>
                 </div>
-            </div>
+            </div> 
         </div>
     );
 };

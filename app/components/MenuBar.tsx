@@ -3,7 +3,6 @@ import { SignedIn, SignedOut, useAuth, useClerk } from '@clerk/nextjs';
 import Link from 'next/link';
 import React from 'react';
 
-
 const MenuBar = () => {
     const { signOut } = useClerk();
     return (

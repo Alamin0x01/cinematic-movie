@@ -4,7 +4,7 @@ import React from 'react';
 
 const Profile = () => {
     const { user } = useUser();
-    // console.log(user);
+    // console.log(user); 
     return (
         <div className='flex gap-8 mx-10'>
             <div className='flex flex-col gap-4 items-center justify-center'>
