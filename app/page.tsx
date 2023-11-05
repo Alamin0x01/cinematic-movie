@@ -8,7 +8,6 @@ import Footer from './components/Footer'
 import CommingMovies from './components/CommingMovies'
 
 const Home = () => {
-
   return (
     <main className='bg-[#080808]'>
       <Header></Header>
