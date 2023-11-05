@@ -6,6 +6,7 @@ import 'swiper/css/navigation';
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
 import { Swiper, SwiperSlide } from 'swiper/react';
 
+
 const CaroselBanner = () => {
     return (
         <div className='md:mt-24 mt-14'>

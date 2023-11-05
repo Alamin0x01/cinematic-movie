@@ -1,6 +1,5 @@
 "use client"
 import { usePathname } from 'next/navigation'
-import { UserButton } from '@clerk/nextjs';
 import Link from 'next/link';
 import React from 'react';
 

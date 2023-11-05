@@ -16,7 +16,6 @@ interface Movie {
 interface CommingCardProps {
     movie: Movie;
 }
-
 const CommingCard: React.FC<CommingCardProps> = ({ movie }) => {
     const { movieName, releasingDate, language, movieImage, type, id, trailerLink } = movie;
 
